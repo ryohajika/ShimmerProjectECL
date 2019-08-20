@@ -1,10 +1,9 @@
 # ShimmerProjectECL is a java-based project to make a simple data streaming software for Shimmer biopotential signal sensor using LSL (Lab Streaming Layer) protocol.
 ## Designed for the Windows platform, Shimmer GSR+ sensor.
 
-Based on the [ShimmerEngineering's repo][1]
-[1]:https://github.com/ShimmerEngineering/ShimmerJavaExamples
+Based on the [ShimmerEngineering's repo](https://github.com/ShimmerEngineering/ShimmerJavaExamples)
 
-## Original Description for the [repo][1]
+## Original Description for the repo
 There are a number of examples
 - ECGToHRExample
 
