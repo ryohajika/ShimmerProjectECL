@@ -4,7 +4,7 @@
 Based on the [ShimmerEngineering's repo][1]
 [1]:https://github.com/ShimmerEngineering/ShimmerJavaExamples
 
-##Original Description for the [repo][1]
+## Original Description for the [repo][1]
 There are a number of examples
 - ECGToHRExample
 
@@ -25,10 +25,10 @@ There are a number of examples
 For Shimmer2R uses please refer to the legacy example
 
 
-#License
+# License
 follow the original license
 
-#how to use "ApplicationShimmer"
+# how to use "ApplicationShimmer"
 1. Install Java Development Kit 1.8
 2. Clone this repo to local and open it with Eclipse Java IDE.
 3. Select "ApplicationShimmer.java" under "ecl" directory and build it.
@@ -37,6 +37,6 @@ follow the original license
 6. Run the compiled "ApplicationShimmer.jar" in Eclipse IDE or by typing `java -jar ApplicationShimmer.jar` in powershell.
 7. Type in the port number in the app and you'll see connection log and sensor data.
 
-##TDL
+## TDL
 - cleanup repo
 - adding some function (perhaps GUI?)
